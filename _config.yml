@@ -1,4 +1,8 @@
 #title: "Fahimeh (Sophia) Nezhadmoghadam"
+# before:
+baseurl: "/FNezhadmoghadam"
+# after:
+baseurl: ""
 logo: /assets/img/headshot.jpeg
 description: "PhD in computer sience, helllo friendsssss"
 #show_downloads: true
